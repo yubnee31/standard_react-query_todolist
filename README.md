@@ -1,3 +1,2 @@
-1. git clone
-2. npm i 불가시 npm i --force
-3. json-server --watch db.json --port 4000
+1. keys.constant.js / useTodosQuery.js 작성
+2. DetailBox.jsx : 상세보기 부분 수정
